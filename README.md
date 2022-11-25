@@ -4,11 +4,11 @@
 
 - Train和Test資料缺失的部分：
 
-<p align="center">
+<p align="left">
   <img src="train.png" width="240" title="train">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="test.png" width="240" title="test">
 </p>
 
@@ -19,7 +19,7 @@
 -	模型選擇Logistic Regression
 -	模型準確率為：0.8100558659217877
 
-<p align="center">
+<p align="left">
   <img src="accuracy.png" width="320" title="accuracy">
 </p>
 
