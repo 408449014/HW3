@@ -13,11 +13,11 @@
 </p>
 
 - 對於Age，使用Mean平均值進行補值
--	對於Cabin，所有缺失值用“Unknown”補值
+-	對於Cabin，刪除了Cabin這一欄
 -	對於Fare，使用Mean平均值進行補值
 -	對於Embarked，使用Mode眾數進行補值
 -	模型選擇Logistic Regression
--	模型準確率為：0.8100558659217877
+-	模型準確率為：0.8268156424581006
 
 <p align="left">
   <img src="accuracy.png" width="320" title="accuracy">
